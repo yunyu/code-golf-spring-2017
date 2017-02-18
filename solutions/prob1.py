@@ -1,4 +1,3 @@
-import sys
 def npb(n):
 	c=0
 	np=[]
