@@ -1,0 +1,76 @@
+  <prime "2">
+  </prime>
+<composite "2">
+</composite>
+  <prime "2">
+  </prime>
+<composite "4">
+    <prime "2">
+    </prime>
+  <composite "2">
+  </composite>
+</composite>
+  <prime "2">
+  </prime>
+<composite "18">
+    <prime "3">
+    </prime>
+  <composite "9">
+      <prime "3">
+      </prime>
+    <composite "3">
+    </composite>
+  </composite>
+</composite>
+  <prime "3">
+  </prime>
+<composite "27">
+    <prime "3">
+    </prime>
+  <composite "9">
+      <prime "3">
+      </prime>
+    <composite "3">
+    </composite>
+  </composite>
+</composite>
+  <prime "2">
+  </prime>
+<composite "2002">
+    <prime "7">
+    </prime>
+  <composite "1001">
+      <prime "11">
+      </prime>
+    <composite "143">
+        <prime "13">
+        </prime>
+      <composite "13">
+      </composite>
+    </composite>
+  </composite>
+</composite>
+  <prime "2">
+  </prime>
+<composite "63721474">
+    <prime "17">
+    </prime>
+  <composite "31860737">
+      <prime "37">
+      </prime>
+    <composite "1874161">
+        <prime "37">
+        </prime>
+      <composite "50653">
+          <prime "37">
+          </prime>
+        <composite "1369">
+            <prime "37">
+            </prime>
+          <composite "37">
+          </composite>
+        </composite>
+      </composite>
+    </composite>
+  </composite>
+</composite>
